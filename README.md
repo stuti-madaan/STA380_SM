@@ -1,2 +1,1 @@
-# STA380_SM
-This is my demo
+# Summer: Unsupervised Learning: Scribe
